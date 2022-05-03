@@ -1,3 +1,4 @@
 hoge
 add
 main
+echo
